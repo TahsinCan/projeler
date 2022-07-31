@@ -1,0 +1,15 @@
+proje 3 Binary search tree
+
+[7,5,1,8,3,6,0,9,4,2] Dizisinin binary search tree aşamalarını yazınız
+
+dizi elemanları bir önceki elemandan büyük ise sağına, küçük ise soluna gelecek şekilde yerleştirilir.
+
+                7
+              /  \
+            5      8
+           /        \
+         1     6     9
+        /     /
+      0     3
+          /   \
+         2     4
